@@ -2,5 +2,3 @@
 - 👀 I’m interested in learning web development.
 - 🌱 I’m currently learning front end programming.
 - 💞️ I’m looking to collaborate on microverse.
-- 📫 You can reach me on my linkedin profile.
-- linkedin.com/in/joshua-lyngdoh-11ba7021a
