@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on microverse.
 
 
-const @joshualyngdoh {
-  currently studying at : "microverse";
-  pronouns : : "he", "him";
-  code : "HTML", "CSS", "Javascript", "Rudy", "React", "Redux", "Bootstrap";
-  interests : "dogs", "thriller-movies", "travel" and of course "software-development"
-}
+- const @joshualyngdoh {
+-  currently studying at : "microverse";
+-  pronouns : : "he", "him";
+-  code : "HTML", "CSS", "Javascript", "Rudy", "React", "Redux", "Bootstrap";
+-  interests : "dogs", "thriller-movies", "travel" and of course "software-development"
+- }
 
