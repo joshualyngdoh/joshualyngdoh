@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshualyngdoh
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning front end programming.
+- 👀 I’m currently learning web development.
+- 🌱 I’m working on front end programming.
 - 💞️ I’m looking to collaborate on microverse.
 
 
