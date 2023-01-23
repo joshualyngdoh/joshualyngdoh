@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshualyngdoh
-- 👀 I’m currently on the look out for my next employer. Let me know if you see him around.
+- 👀 I’m currently on the look out for my next employers. Let me know if you see them around.
 - 🌱 I’m working on front end programming.
 - 💞️ Reach out to me at: 
     - GitHub: [@githubhandle](https://github.com/joshualyngdoh)
