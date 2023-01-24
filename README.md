@@ -11,7 +11,7 @@
                    const @joshualyngdoh {
                      currently studying at : "microverse";
                      pronouns : "he", "him";
-                     code : "HTML", "CSS", "JavaScript", "Rudy", "React", "Redux", "Bootstrap";
+                     code : "HTML", "CSS", "JavaScript", "Ruby", "React", "Redux", "Bootstrap";
                      interests : "dogs", "thriller-movies", "travel" and of course "software-development"
                    }
                    return softwareDeveloper
